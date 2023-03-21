@@ -27,9 +27,8 @@ public class EJERCICIOEXTRA1 {
             System.out.println("Ingrese el valor de la posicion " +(i+1));
            vector [i] = leer.nextInt();
             suma+=vector[i];
-       
-        
          }  
+        
         for (int i = 0; i < n; i++) {
             System.out.println("[" +vector[i]+"]");
         }
